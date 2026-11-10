@@ -1,104 +1,92 @@
-<div align="center">
+# Lê Văn Chung
 
-# 👋 Xin chào, I'm **Chung Le**
+**Kỹ Sư Phần Mềm (Full-Stack) | Kỹ Sư Hệ Thống Nhúng & IoT | Tự Động Hóa Quy Trình**
 
-### Full-Stack Developer · IoT & Embedded Engineer · AI Automation Specialist
-
-[![Gmail](https://img.shields.io/badge/Gmail-chunglv04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chunglv04@gmail.com)
-[![Live Platform](https://img.shields.io/badge/Live_Site-hanngu24h.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hanngu24h.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ChungLV0498-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChungLV0498)
-
-<p align="center">
-  <i>"Passionate engineer bridging the physical and digital worlds — from hardware firmware and automated factory test benches to scalable cloud web platforms and AI automation pipelines."</i>
-</p>
-
-</div>
+[Email: chunglv04@gmail.com](mailto:chunglv04@gmail.com) | [Dự án thực tế: hanngu24h.com](https://hanngu24h.com) | [GitHub: ChungLV0498](https://github.com/ChungLV0498)
 
 ---
 
-## 👨‍💻 Professional Summary
+## Tóm Tắt Chuyên Môn
 
-- 🔧 **Hardware & IoT Systems Engineer**: Designing automated test fixtures, firmware flashing protocols, and telemetry logging systems for consumer audio and smart device production lines.
-- 🌐 **Full-Stack Web Engineering**: Architect and creator of **[hanngu24h.com](https://hanngu24h.com)** — a high-traffic Chinese learning ecosystem with SSR, AI conversational tutoring, gamified drills, and automated SEO ranking.
-- 🎬 **AI Video Automation Architecture**: Built and deployed an end-to-end multi-channel YouTube automation pipeline orchestrating AI script writing, neural TTS dubbing (CapCut & custom engines), and video rendering across distributed VPS clusters managing 50+ channels.
-- 💎 **Retail & Business Software**: Engineered custom POS, inventory, and ledger solutions for retail jewelry and precious metals businesses.
+Kỹ sư phần mềm và phần cứng với kinh nghiệm thực chiến đa lĩnh vực: từ lập trình vi điều khiển, thiết kế hệ thống kiểm thử tự động trên dây chuyền sản xuất thiết bị điện tử, đến phát triển ứng dụng web quy mô lớn và xây dựng hệ thống tự động hóa nội dung đa kênh.
+
+- **Hệ thống nhúng & IoT công nghiệp**: Thiết kế đồ gá kiểm thử, tự động hóa nạp firmware, đo kiểm chu kỳ sạc/xả pin và kiểm tra thông số âm thanh cho các thiết bị điện tử tiêu dùng.
+- **Phát triển Web Full-Stack**: Sáng lập và vận hành nền tảng giáo dục trực tuyến **hanngu24h.com** phục vụ hơn 10.000 lượt truy cập hàng tháng, tích hợp luyện thi HSK tương tác và công nghệ nhận diện phát âm.
+- **Hệ thống tự động hóa media**: Thiết kế và vận hành cụm hệ thống tự động biên tập video, tổng hợp giọng nói AI (Neural TTS đa ngôn ngữ) và phân phối nội dung tự động qua VPS cho hơn 50 kênh YouTube.
+- **Phần mềm quản trị doanh nghiệp**: Xây dựng hệ thống quản lý bán hàng (POS), định giá vàng theo thời gian thực và quản trị kho vận cho chuỗi bán lẻ kim hoàn.
 
 ---
 
-## 🛠️ Technical Capabilities
+## Năng Lực Kỹ Thuật
 
-<div align="center">
-
-| Domain | Technologies & Frameworks |
+| Lĩnh Vực | Công Nghệ & Công Cụ Chủ Đạo |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Frontend & UI** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) |
-| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Nginx/Apache](https://img.shields.io/badge/Web_Server-009639?style=flat-square&logo=nginx&logoColor=white) |
-| **AI & Media** | ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![TTS](https://img.shields.io/badge/Neural_TTS-FF6F00?style=flat-square) ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![Web Scraping](https://img.shields.io/badge/Async_Scraping-FF4088?style=flat-square) |
-| **Embedded & IoT** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Serial/UART](https://img.shields.io/badge/UART%2FI2C%2FSPI-333333?style=flat-square) ![LoRa](https://img.shields.io/badge/LoRa-362D59?style=flat-square) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black) ![VPS Management](https://img.shields.io/badge/VPS_Fleet-326CE5?style=flat-square) ![Automation](https://img.shields.io/badge/CI%2FCD_Automation-2088FF?style=flat-square) |
-
-</div>
+| **Ngôn ngữ lập trình** | Python, JavaScript (ES6+), PHP, C/C++, SQL |
+| **Giao diện & Web** | HTML5, CSS3, Three.js / WebGL, HTML5 Canvas, Electron, Bootstrap |
+| **Backend & Cơ sở dữ liệu** | Node.js, PHP REST API, SQLite, MySQL, Nginx, Apache |
+| **Hệ thống nhúng & IoT** | ESP32, Arduino, UART/RS232, I2C, SPI, LoRa, Đo kiểm pin tự động |
+| **Xử lý âm thanh & Video** | FFmpeg, Neural TTS (Tiếng Việt / Trung / Anh), Whisper STT, PySide6 / Qt |
+| **Hệ thống & Vận hành** | Linux (Ubuntu Server), Git, Quản trị cụm VPS, CI/CD tự động |
 
 ---
 
-## 🌟 Highlighted Works & Case Studies
+## Các Dự Án Tiêu Biểu
 
-### 🌐 1. Full-Stack EdTech: [hanngu24h.com](https://hanngu24h.com)
-> **Production Chinese Learning & HSK Certification Platform**  
-> *Active production deployment with 10,000+ monthly unique visitors.*
-- **Core Architecture**: Vanilla JS reactive state engine, PHP REST backend, SQLite/JSON hybrid database with client-side caching.
-- **Pedagogical Features**: Interactive HSK 1–6 practice tests, AI audio pronunciation evaluator, vocabulary flashcards with SRS (Spaced Repetition), sentence unscrambler, and radical breakdowns.
-- **SEO & Growth**: Server-Side Rendering (SSR) articles, automated Schema.org markup, dynamic sitemaps with zero-dependency architecture.
-- 🔗 **Production Site**: [hanngu24h.com](https://hanngu24h.com)
-
----
-
-### 🎰 2. Interactive Web & Graphics: [Lucky Spin 3D](https://chunglv0498.github.io/lucky-spin-game/)
-> **High-Performance 3D Tag Sphere Lottery System**  
-> *Open-source showcase project built for high-energy events & year-end gatherings.*
-- **Features**: Real-time 3D physics-based tag cloud sphere rotation, bilingual Vietnamese/Chinese localization, dynamic canvas confetti, audio sync, and persistent winner roster state.
-- **Technologies**: Vanilla JavaScript (ES6+), HTML5 Canvas, TagCanvas Engine, LocalStorage Web API.
-- 🔗 **Live Demo**: [Play Online](https://chunglv0498.github.io/lucky-spin-game/)  
-- 📂 **Source Code**: [ChungLV0498/lucky-spin-game](https://github.com/ChungLV0498/lucky-spin-game)
+### 1. Nền Tảng Học Tiếng Trung Trực Tuyến — hanngu24h.com
+- **Mô hình**: Hệ thống Web giáo dục phục vụ học tập và luyện thi chứng chỉ HSK từ cấp độ 1 đến 6.
+- **Kiến trúc**:
+  - Giao diện người dùng tối ưu hóa tốc độ tải trang, không phụ thuộc framework nặng.
+  - Backend PHP xử lý chấm điểm trắc nghiệm tự động trên máy chủ, bảo mật chống gian lận.
+  - Tích hợp công cụ luyện phát âm, thẻ từ vựng thông minh (Spaced Repetition) và tra cứu ngữ pháp.
+  - Cơ chế Server-Side Rendering (SSR) tự động chuẩn hóa dữ liệu có cấu trúc (Schema.org), tối ưu hóa công cụ tìm kiếm (SEO).
+- **Địa chỉ truy cập**: [https://hanngu24h.com](https://hanngu24h.com)
 
 ---
 
-### 🎬 3. AI Media Automation & Distribution Suite
-> **Distributed Pipeline Managing 50+ Automated YouTube Channels**  
-> *(Enterprise / Proprietary Ecosystem)*
-- **Orchestration**: `autoup-orchestrator` coordinates render stations and VPS uploader nodes via REST API and heartbeat monitoring.
-- **Neural TTS & Dubbing**: Custom neural text-to-speech modules (`voxcraft-tts`) integrating CapCut voice models, multi-speaker dialogue parsing, and emotional inflection.
-- **Video Synthesis**: Automated script-to-video generation (`recap-film`, `auto-reup`), intelligent subtitle synchronization, and watermark removal with FFmpeg.
-- **Fleet Management**: Centralized web dashboard (`tiengtrungmienphi-dashboard`) monitoring VPS health, publish queues, and channel analytics.
+### 2. Hệ Thống Bốc Thăm & Vòng Quay May Mắn 3D — lucky-spin-game
+- **Mô hình**: Ứng dụng web đồ họa 3D thời gian thực phục vụ sự kiện, hội nghị và tiệc tất niên doanh nghiệp.
+- **Đặc điểm kỹ thuật**:
+  - Render khối cầu 3D tương tác mượt mà bằng HTML5 Canvas và TagCanvas, cho phép kéo xoay theo quán tính vật lý.
+  - Giao diện song ngữ Việt - Trung, hỗ trợ chia nhiều hạng mục giải thưởng và số lượng người trúng tùy biến.
+  - Hiệu ứng pháo giấy canvas-confetti, âm thanh đồng bộ và lưu trữ trạng thái người trúng giải vào LocalStorage chống mất dữ liệu khi tải lại trang.
+- **Trải nghiệm trực tiếp**: [https://chunglv0498.github.io/lucky-spin-game/](https://chunglv0498.github.io/lucky-spin-game/)
+- **Mã nguồn**: [ChungLV0498/lucky-spin-game](https://github.com/ChungLV0498/lucky-spin-game)
 
 ---
 
-### 🔧 4. Industrial IoT & Production Line Test Automation
-> **Hardware Testing & Telemetry for Smart Consumer Electronics**  
-> *(Enterprise / R&D Tooling)*
-- **Battery Cycling Tool** (`battery-charge-tool`): Automated charge/discharge profile generator with serial telemetry data acquisition and life-cycle analytics.
-- **Acoustic & Device QA** (`beats-pro-fit-tester`): Test sequencer for consumer audio devices validating Bluetooth connectivity, button response, and frequency response metrics.
-- **Device Provisioning** (`efa-setup`): Automated factory tooling for firmware burning, MAC address assignment, and cloud configuration handshake.
+### 3. Cụm Hệ Thống Tự Động Hóa Sản Xuất & Đăng Tải Video (50+ Kênh)
+- **Mô hình**: Dây chuyền khép kín từ khâu thu thập kịch bản, lồng tiếng nhân vật, dựng phim đến xuất bản lên YouTube.
+- **Các thành phần cốt lõi**:
+  - **autoup-orchestrator**: Máy chủ điều phối trung tâm lập lịch render, phân bổ tài nguyên và kiểm tra nhịp tim (heartbeat) của các máy trạm.
+  - **autoup-render-station**: Trạm dựng video hàng loạt tận dụng tăng tốc phần cứng GPU (NVIDIA NVENC/CUDA) và tự động đóng gói file gửi lên VPS.
+  - **autoup-vps-uploader**: Daemon chạy nền trên cụm Linux VPS nhận gói media, xác thực OAuth2 an toàn và tự động phát hành video theo lịch.
+  - **voxcraft-tts**: Động cơ tổng hợp giọng đọc neural đa giọng đọc (Bắc, Nam, tiếng Trung, tiếng Anh) có khả năng ngắt nghỉ và kiểm soát biểu cảm.
 
 ---
 
-## 📈 Activity & Stats
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ChungLV0498&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChungLV0498&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChungLV0498&theme=tokyonight&hide_border=true" />
-</div>
+### 4. Hệ Thống Kiểm Thử & Nạp Firmware Thiết Bị Điện Tử Tiêu Dùng
+- **Mô hình**: Bộ công cụ tự động hóa kiểm soát chất lượng (QA) phục vụ dây chuyền sản xuất thiết bị âm thanh và IoT.
+- **Các thành phần cốt lõi**:
+  - **battery-charge-tool**: Công cụ kiểm tra độ bền pin, tự động điều khiển chu kỳ sạc/xả qua giao tiếp serial, thu thập đồ thị suy hao dung lượng (mAh) và nhiệt độ.
+  - **beats-pro-fit-tester**: Kịch bản kiểm thử chức năng tự động cho tai nghe không dây, đo lường tốc độ kết nối Bluetooth, độ phản hồi phím bấm và kiểm tra thanh ghi vi mạch.
+  - **efa-setup**: Bộ cài đặt tự động cấu hình mạng, định tuyến subnet công nghiệp và cài đặt driver phục vụ các trạm kiểm tra trên chuyền sản xuất.
 
 ---
 
-<div align="center">
+### 5. Giải Pháp Quản Lý Bán Hàng & Bảng Giá Vàng BGV
+- **Mô hình**: Hệ thống quản lý toàn diện dành cho doanh nghiệp kinh doanh vàng bạc đá quý.
+- **Các thành phần cốt lõi**:
+  - **bgv-api-server**: Backend RESTful quản lý biến động giá thị trường, tồn kho và danh mục sản phẩm.
+  - **bgv-tv-box**: Ứng dụng Android chạy trên TV showroom, hiển thị bảng giá vàng điện tử cập nhật tự động theo thời gian thực.
+  - **gold-app-desktop**: Phần mềm máy trạm cho thu ngân tính toán tiền công, độ tuổi vàng và in hóa đơn mua bán.
 
-📫 **Let's Connect:** [chunglv04@gmail.com](mailto:chunglv04@gmail.com) · [LinkedIn](mailto:chunglv04@gmail.com)  
-*Crafted with precision — from silicon to browser.*
+---
 
-</div>
+## Thống Kê Hoạt Động
+
+[![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=ChungLV0498&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ChungLV0498)
+[![Ngôn ngữ sử dụng](https://github-readme-stats.vercel.app/api/top-langs/?username=ChungLV0498&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/ChungLV0498)
+
+---
+
+Liên hệ công việc: [chunglv04@gmail.com](mailto:chunglv04@gmail.com) | Hà Nội, Việt Nam
